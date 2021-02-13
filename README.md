@@ -27,8 +27,7 @@ xx
 
 # Project Visual :metal:
 
-
-xx
+![robot](https://user-images.githubusercontent.com/77648727/107864343-1bcec580-6e10-11eb-91fe-26c56e9a56dd.png)
 
 
 # Authors, Acknowledgement, & Resources :handshake:
