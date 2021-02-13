@@ -1,5 +1,5 @@
 
-# Name :robot: vs. :robot:
+# Robot Gladiators :robot: vs. :robot:
 UC Berkeley's Coding Bootcamp 'Robot Gladiators' exercise to learn JavaScript.
 
 ### Live Application Link :eyes:
