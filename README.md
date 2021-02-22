@@ -1,6 +1,11 @@
 ![Thumbnail (4)](https://user-images.githubusercontent.com/77648727/108649507-57057000-7472-11eb-9341-c1d0718a2790.png)
 
 # Name :robot: vs. :robot:
+
+
+ |![image 16 (2)](https://user-images.githubusercontent.com/77648727/108654344-54f4de80-747d-11eb-9a16-12318f82e4a8.png)| UC Berkeley Coding Bootcamp <br> Week 3 Homework |
+|---|:---| 
+
 UC Berkeley's Coding Bootcamp 'Robot Gladiators' exercise to learn JavaScript.
 
 ### Live Application Link :eyes:
