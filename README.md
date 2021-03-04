@@ -1,5 +1,4 @@
-![Frame 24](https://user-images.githubusercontent.com/77648727/109897519-ace2d080-7c47-11eb-883a-52a031814daa.png)
-
+![Frame 24 (1)](https://user-images.githubusercontent.com/77648727/109897609-d4d23400-7c47-11eb-9e4e-e45ddbc1a1ba.png)
 
 # Name
 
