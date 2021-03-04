@@ -1,4 +1,5 @@
-![Thumbnail (4)](https://user-images.githubusercontent.com/77648727/108649507-57057000-7472-11eb-9341-c1d0718a2790.png)
+![Frame 24](https://user-images.githubusercontent.com/77648727/109897519-ace2d080-7c47-11eb-883a-52a031814daa.png)
+
 
 # Name :robot: vs. :robot:
 
