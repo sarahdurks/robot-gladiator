@@ -3,8 +3,7 @@
 # Name
 
 Robot Gladiators Game
-
-![Frame 47](https://user-images.githubusercontent.com/77648727/109910108-3f8d6a80-7c5c-11eb-821a-c799234234b7.png)
+![Group 52 (1)](https://user-images.githubusercontent.com/77648727/109910295-a1e66b00-7c5c-11eb-8054-d71db1c492d2.png)
 
 UC Berkeley's Coding Bootcamp 'Robot Gladiators' exercise to learn JavaScript.
 
