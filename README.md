@@ -2,7 +2,9 @@
 
 # Name
 
-UC Berkeley Coding Bootcamp Week 3 Homework 
+Robot Gladiators Game
+
+![Frame 47](https://user-images.githubusercontent.com/77648727/109910108-3f8d6a80-7c5c-11eb-821a-c799234234b7.png)
 
 UC Berkeley's Coding Bootcamp 'Robot Gladiators' exercise to learn JavaScript.
 
