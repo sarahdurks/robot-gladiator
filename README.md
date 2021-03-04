@@ -3,6 +3,7 @@
 # Name
 
 Robot Gladiators Game     
+
 ![Group 52 (1)](https://user-images.githubusercontent.com/77648727/109910295-a1e66b00-7c5c-11eb-8054-d71db1c492d2.png)
 
 UC Berkeley's Coding Bootcamp 'Robot Gladiators' exercise to learn JavaScript.
@@ -19,20 +20,20 @@ See live application [here](https://sarahdurks.github.io/robot-gladiator/)
 
 
 ### Game Premise
-- A game where a player's robot can fight another robot until one of them loses
-- If the enemy-robot loses first, the player's robot will move on to fight another enemy-robot
-- Attack damage is random, using the robot's attack value as an upper limit 
+> A game where a player's robot can fight another robot until one of them loses
+> If the enemy-robot loses first, the player's robot will move on to fight another enemy-robot
+> Attack damage is random, using the robot's attack value as an upper limit 
 
 ### The Player...
 
-- Robot's name can be dynamically created by the player through the browser
-- Player is given the option to skip the fight by paying a penalty fee, or continue with the fight
-- After defeating an enemy, ask the player if they would like to purchase an item from a store
-- The player can purchase health or attack points if they can afford it
+> Robot's name can be dynamically created by the player through the browser
+> Player is given the option to skip the fight by paying a penalty fee, or continue with the fight
+> After defeating an enemy, ask the player if they would like to purchase an item from a store
+> The player can purchase health or attack points if they can afford it
 
 ### Enemies Start with...
-- Enemies start at a random health value of 40 - 60
-- Enemies start with a random attack value of 10 - 14
+> Enemies start at a random health value of 40 - 60
+> Enemies start with a random attack value of 10 - 14
 
 ## Project Visual :metal:
 
